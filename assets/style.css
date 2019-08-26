@@ -1,0 +1,67 @@
+*{
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.container-fluid{
+  background-color: darkslategrey;
+  color: white;
+  border-top: 7px solid white;
+}
+
+h1{
+  background-color: darkslategrey;
+  color: white;
+  text-align: left;
+  padding: 20px;
+  width: 960px;
+  margin-left: -20px;
+}
+
+.card {
+display: inline-block;
+padding:25px;
+margin-left: 1%;
+margin-top: 45px;
+margin-right: 1px;
+
+}
+
+img{
+width: 400px;
+height: 300px;
+}
+
+
+.row{
+  display: inline-table;
+}
+
+.card-body, .card-text, h6, bold{
+background-color: white;
+}
+
+
+h6, h4{
+  font-weight: bolder;
+}
+
+h4{
+  margin-top: 30px;
+  margin-bottom: 20px;
+  
+}
+
+#description {
+  margin-left: 20px;
+  text-align: justify;
+  margin-right: 50px;
+}
+
+.footer-copyright{
+  width: 100%;
+  background-color: darkslategrey;
+  color: white;
+  margin-top: 10%;
+}
